@@ -7,3 +7,5 @@ const ContentWrapper = ({ children }) => {
 };
 
 export default ContentWrapper;
+
+console.log("hello")
